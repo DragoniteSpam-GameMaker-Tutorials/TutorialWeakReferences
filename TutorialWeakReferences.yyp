@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"font_game","path":"fonts/font_game/font_game.yy",},"order":3,},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
   ],
   "Options": [
